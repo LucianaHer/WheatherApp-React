@@ -12,8 +12,3 @@ Desde ese directorio ejecutar los siguientes comandos:
 No es necesario volver a correr el proyecto cada vez que se realice un cambio sino que se verá automáticamente reflejando en el navegador.
 
 
-Imágenes de la aplicación funcionando:
-
-
-
-
