@@ -1,0 +1,33 @@
+
+.input{
+    border-radius: 5px;
+    background-color: #dce5e6;
+    border: 4px solid #E63E6D;
+    outline: none;
+    width: 200px;
+    height: 40px;
+    margin-top: 2px;
+
+}
+
+.btn {
+    background: #C9CCD5;
+    background-image: -webkit-linear-gradient(top, #C9CCD5, #FFE3E3);
+    background-image: -moz-linear-gradient(top, #C9CCD5, #FFE3E3);
+    background-image: -ms-linear-gradient(top, #C9CCD5, #FFE3E3);
+    background-image: -o-linear-gradient(top, #C9CCD5, #FFE3E3);
+    background-image: linear-gradient(to bottom, #C9CCD5, #FFE3E3);
+    
+    border-radius: 38px;
+    color: #E63E6D;
+    font-size: 14spx;
+    
+    padding: 1px 30px 7px 25px;
+    border: solid #B42B51 3px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #FCDEC0;
+    text-decoration: none;
+  }

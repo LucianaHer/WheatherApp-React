@@ -1,0 +1,56 @@
+
+.carta{
+       
+   
+    margin: 1%;
+    height:330px;
+    width: 340px;
+    font-weight: bolder;
+    color: #303841;
+    background: rgba(207, 204, 109, 0.522);
+    border: 3px solid rgb(51, 71, 136) ;
+    border-radius: 49px 49px 48px 49px;
+}
+
+.nombrecity{
+    text-align: center;
+    font-size: 200%;
+}
+
+.posmin{
+    margin-left: 30%; 
+    float: left;
+}
+
+.posmax{
+    margin-right: 30%;
+    float: right;
+}
+
+.img{
+    width:150px;
+    display:block;
+    margin:auto;   
+}
+
+.button{
+    position:relative;
+    top:3%; 
+    left:82%;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    color: #fafafa;
+    font-size: 12px;
+    font-weight: 900;
+    padding: 11px;
+    background: #FF2442;
+    text-decoration: none;
+    cursor:pointer;
+}
+      
+.button:hover {
+        text-decoration: none;
+}
+
+
